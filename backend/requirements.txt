@@ -1,0 +1,3 @@
+# StudyBot Flask backend (Raspberry Pi 5)
+Flask>=3.0,<4.0
+requests>=2.31,<3.0
