@@ -30,7 +30,7 @@ StudyBot/
 
 ## System Architecture
 
-![System Architecture](/StudyBot/media/StudyBot_demo.mp4)
+![System Architecture](/media/System_Architecture.png)
 
 The **ESP32-C3** handles the display, buttons, navigation, and focus timer. A **Raspberry Pi 5** runs a **Flask** server and locally hosted **Ollama** models. The ESP32-C3 requests AI responses and quizzes from the server over Wi-Fi.
 
@@ -62,7 +62,7 @@ The following checks have been exercised during development:
 **Testing status:** validation has primarily consisted of manual hardware checks, integration trials, and log-based debugging. A repeatable automated test suite, long-duration reliability testing, and robust power/reconnection testing are still to be added.
 
 ## Demo
-![StudyBot_demo.mp4](/StudyBot/media/StudyBot_demo.mp4)
+![StudyBot_demo.mp4](/media/StudyBot_demo.mp4)
 
 ## What's Next
 
