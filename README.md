@@ -62,7 +62,7 @@ The following checks have been exercised during development:
 **Testing status:** validation has primarily consisted of manual hardware checks, integration trials, and log-based debugging. A repeatable automated test suite, long-duration reliability testing, and robust power/reconnection testing are still to be added.
 
 ## Demo
-![StudyBot_demo.mp4](/media/StudyBot_demo.mp4)
+[StudyBot_demo.mp4](/media/StudyBot_demo.mp4)
 
 ## What's Next
 
