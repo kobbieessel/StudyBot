@@ -73,7 +73,7 @@ The following checks have been exercised during development:
 
 ## Author
 
-**Kwabena Amoako** — Embedded Systems | Firmware | Robotics  
+[**Kwabena Amoako**](https://www.linkedin.com/in/kwabena-e-amoako/) — Embedded Systems | Firmware | Robotics  
 **Build journey:**  [@KobbieBuilds on YouTube](https://youtube.com/@kobbiebuilds)
 
 *StudyBot is a work in progress. The README will evolve as the project develops.*
